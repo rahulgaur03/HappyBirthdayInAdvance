@@ -3,7 +3,7 @@
 /******************************************************* SETUP ************************************************************/
 
 const config = {
-    name: "Bani Dixit", // actual name of the recipient (Mandatory)
+    name: "Hi Buddhu", // actual name of the recipient (Mandatory)
 
     nickname: "Budbak", // nickname(optional)
 
@@ -176,7 +176,7 @@ button.addEventListener("click",function(){
             return;
         }
 
-        document.querySelector(".HBD").textContent = "Happy Birthday To You In Advance";
+        document.querySelector(".HBD").textContent = "Happy Birthday To You";
 
         frames[1].style.display = "flex";
 
